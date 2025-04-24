@@ -9,6 +9,9 @@ A lightweight system that uses MediaPipe (BlazePose) and Unity to visualize huma
 - Unity renders 33 joint spheres and connects them with lines using LineRenderer.
 - Optional: live movement can drive object behavior (e.g., raise hand to move cubes).
 
+![MediaPipe Joint Map](media/mediapipe_joint_map.png)  
+<sub>MediaPipe's 33-joint landmark system used in this project</sub>
+
 ## Setup Instructions
 
 ### 1. Clone the Repo
